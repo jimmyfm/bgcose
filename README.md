@@ -1,4 +1,4 @@
 bgcose
 ======
 
-Micro Python script to update ubuntu desktop bacground rotation
+Micro Python script to update ubuntu desktop background rotation
